@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/gliderlabs/ssh"
+	"github.com/open-uem/ssh"
 	"github.com/pkg/sftp"
 )
 

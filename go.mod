@@ -1,4 +1,4 @@
-module github.com/gliderlabs/ssh
+module github.com/open-uem/ssh
 
 go 1.25.3
 
